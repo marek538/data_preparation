@@ -1,4 +1,4 @@
-# Data Cleaning & Wrangling: The Met Museum Dataset
+# 1) Data Cleaning & Wrangling: The Met Museum Dataset
 
 ## Project Description
 A comprehensive data preprocessing and data quality analysis project using "The Metropolitan Museum of Art Open Access" dataset. The primary focus is on transforming raw, inconsistent, and messy real-world data into a clean, structured format ready for Big Data analysis or Machine Learning pipelines.
@@ -10,7 +10,7 @@ Main focus of the task is to get used with large datasets
 * **Memory & Type Optimization:** Systematically casted raw string columns into optimal data types (Categorical, Numeric, Boolean, Datetime, and String) to significantly reduce memory footprint and improve processing speed.
 * **Handling Missing Values (NaN):** Analyzed the distribution of missing data (e.g., in dimension features like `Dim1_cm`) to determine appropriate imputation or dropping strategies.
 
-# Advanced Feature Engineering & Dimensionality Reduction
+# 2) Advanced Feature Engineering & Dimensionality Reduction
 
 ## Project Description
 A comprehensive machine learning pipeline focused on the critical steps of data preprocessing for binary classification. This project tackles common real-world data challenges: handling imbalanced datasets, transforming skewed features, and reducing high-dimensional spaces to optimize model performance.
